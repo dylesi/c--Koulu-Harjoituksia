@@ -1,0 +1,7 @@
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\obj\Debug\tehtäväpaketti3.csproj.AssemblyReference.cache
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\obj\Debug\tehtäväpaketti3.csproj.CoreCompileInputs.cache
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\bin\Debug\tehtäväpaketti3.exe.config
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\bin\Debug\tehtäväpaketti3.exe
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\bin\Debug\tehtäväpaketti3.pdb
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\obj\Debug\tehtäväpaketti3.exe
+C:\Users\179492\source\repos\tehtäväpaketti3\tehtäväpaketti3\obj\Debug\tehtäväpaketti3.pdb

@@ -1,0 +1,7 @@
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\bin\Debug\Tehtäväpaketti2.exe.config
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\bin\Debug\Tehtäväpaketti2.exe
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\bin\Debug\Tehtäväpaketti2.pdb
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\obj\Debug\Tehtäväpaketti2.csproj.AssemblyReference.cache
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\obj\Debug\Tehtäväpaketti2.csproj.CoreCompileInputs.cache
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\obj\Debug\Tehtäväpaketti2.exe
+C:\Users\179492\source\repos\Tehtäväpaketti2\Tehtäväpaketti2\obj\Debug\Tehtäväpaketti2.pdb
